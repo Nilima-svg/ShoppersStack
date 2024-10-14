@@ -1,0 +1,6 @@
+Sr no,Module,Description,comments 
+1,Login,"Verify if user is able to access the login page by clicking on ""Login"" button",The statment is incorrect
+2,login,Verify user is able to access the home page by oroviding valid username and passward,NA
+3,login,Verify user is not able to access the home page by Providing invalid user name and passward,
+4,login,Verify user is getting an error notification when trying to login with only user name and no password,
+5,login,Verify user is getting an error notification when trying to login with passwared and no user name,
